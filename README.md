@@ -8,4 +8,3 @@ This project uses the check unit testing library for testing.
       sudo apt-get install check
       
    This project has only been tested in Linux
-
